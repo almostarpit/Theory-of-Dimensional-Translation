@@ -73,7 +73,3 @@ This theory is a conceptual and speculative attempt to bridge quantum behavior a
 
 ---
 
-## 📄 PDF Version
-
-[Download Theory_of_Dimensional_Translation.pdf](./Theory_of_Dimensional_Translation.pdf)
-
